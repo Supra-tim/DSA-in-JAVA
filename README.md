@@ -138,3 +138,6 @@ Mathematical Algorithms – Includes GCD, LCM, prime checks, modular exponentiat
 Sliding Window – Optimizes subarray/substring problems with a moving window.
 
 Two Pointer Technique – Uses two indices to solve array/string problems efficiently.
+
+
+Also some leetcode problems will be added**
