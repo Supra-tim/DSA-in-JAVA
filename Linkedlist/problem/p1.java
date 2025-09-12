@@ -13,9 +13,9 @@ class Node {
 class Remove {
     int size;
 
-    Remove(int size) {
-        this.size = size;
-    }
+    // Remove(int size) {
+    //     this.size = size;
+    // }
 
     public Node deletefromfront(Node head) {
         Node temp = head;
@@ -23,21 +23,21 @@ class Remove {
         return head;
     }
 
-    public Node deletefromend(Node head) {
-        Node temp = head;
-        while (temp.next.next != null) {
-            temp = temp.next;
-        }
-        temp.next = null;
-        return head;
-    }
+    // public Node deletefromend(Node head) {
+    //     Node temp = head;
+    //     while (temp.next.next != null) {
+    //         temp = temp.next;
+    //     }
+    //     temp.next = null;
+    //     return head;
+    // }
 
     public Node deletefromanypos(Node head, int pos) {
         Node temp = head;
-        if (pos == 1) {
-            head = deletefromfront(head);
-            return head;
-        }
+        // if (pos == 1) {
+        //     head = deletefromfront(head);
+        //     return head;
+        // }
         Node prev = null;
         for (int i = 1; i < pos && temp != null; i++) {
             prev = temp;
@@ -52,10 +52,10 @@ class Remove {
             head = deletefromfront(head);
             return head;
         }
-        if (pos == size) {
-            head = deletefromend(head);
-            return head;
-        }
+        // if (pos == size) {
+        //     head = deletefromend(head);
+        //     return head;
+        // }
         head = deletefromanypos(head, pos);
         return head;
     }
@@ -103,7 +103,7 @@ public class p1 {
             temp = temp.next;
         }
         print(head);
-        Remove r = new Remove(n);
+        Remove r = new Remove();
         System.out.print("Enter the number want to delete from tha list:");
         int v = sc.nextInt();
         head = r.rlist(head, v);
