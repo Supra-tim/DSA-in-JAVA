@@ -61,17 +61,17 @@ class Remove {
     }
 
     public Node rlist(Node head, int num) {
-        int pos = 0;
-        if(head!=null && head.data==num){
-            head=head.next;
-        }
         Node temp = head;
-        while (temp != null&& temp.next!=null) {
-            pos++;
-            if (temp.next.data == num) {
+        int pos = 1;
+        while (temp != null) {
+            // /pos++;
+            if (temp.data == num) {
+                // System.out.print(pos);
                 head = delete(head, pos);
+                pos--;
             }
-                temp=temp.next;
+            pos++;
+            temp=temp.next;
         }
         return head;
     }
