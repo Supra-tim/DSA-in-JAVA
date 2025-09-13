@@ -25,6 +25,6 @@ public class duplicate{
         arr[i]=sc.nextInt();
     }
     int size=check(arr);
-    System.out.println(size);
+    System.out.println("Size of the new Array:"+size);
     }
 }
