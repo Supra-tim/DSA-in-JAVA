@@ -10,8 +10,7 @@ class Node{
 class Solution{
     public Node SwNode(Node head){
     Node Dummy=new Node(0);
-    Node temp=head;
-    Dummy.next=temp;
+    Dummy.next=head;
     Node point=Dummy;
     while(point.next!=null && point.next.next!=null){
         Node l1=point.next;
