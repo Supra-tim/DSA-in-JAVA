@@ -1,29 +1,18 @@
 class Solution {
-    public void rotate(int[] a, int num) {
-        int n=a.length;
-    if(num==0){
-        for(int i=0; i<a.length; i++){
-System.out.print( a[i]+" ");
-}
+    public void reverse(int arr[], int start, int end){
+        while(start<end){
+            int temp=arr[start];
+            arr[start]=arr[end];
+            arr[end]=temp;
+            start++;
+            end--;
+        }
     }
-num=num%n;
-int temp[]=new int[num];//num is the no of element want to rotate
-for(int i=0; i<num; i++){
-    temp[i]=a[n-num+i];
-}
-//shifting element
-for(int i=n-1; i>=num; i--){
-    a[i] = a[i - num];
-}
-//placing temp
-for(int i=0; i<num; i++){
-    a[i]=temp[i];
-}
-//display
-System.out.print("the rotating array is:");
-for(int i=0; i<a.length; i++){
-System.out.print( a[i]+" ");
-}
-
+    public void rotate(int[] nums, int k) {
+        int n=nums.length;
+        k%=n;
+        reverse(nums, 0, n-1);
+        reverse(nums, 0, k-1);
+        reverse(nums, k, n-1);
     }
 }
