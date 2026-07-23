@@ -147,14 +147,20 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
