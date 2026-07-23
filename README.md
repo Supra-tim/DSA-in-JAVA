@@ -140,3 +140,11 @@ Sliding Window – Optimizes subarray/substring problems with a moving window.
 Two Pointer Technique – Uses two indices to solve array/string problems efficiently.
 
 Also some leetcode problems will be added**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0485-max-consecutive-ones) |
+<!---LeetCode Topics End-->
