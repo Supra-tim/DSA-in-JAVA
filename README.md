@@ -146,5 +146,10 @@ Also some leetcode problems will be added**
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0485-max-consecutive-ones) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
