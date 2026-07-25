@@ -151,6 +151,7 @@ Also some leetcode problems will be added**
 | [0136-single-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
@@ -172,6 +173,7 @@ Also some leetcode problems will be added**
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -181,6 +183,7 @@ Also some leetcode problems will be added**
 | ------- |
 | [0075-sort-colors](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -189,4 +192,5 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
