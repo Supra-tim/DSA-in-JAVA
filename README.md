@@ -146,6 +146,7 @@ Also some leetcode problems will be added**
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0075-sort-colors) |
@@ -210,6 +211,7 @@ Also some leetcode problems will be added**
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
 ## Matrix
 |  |
