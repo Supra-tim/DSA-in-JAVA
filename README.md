@@ -177,6 +177,7 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0189-rotate-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -233,4 +234,8 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2390-removing-stars-from-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
