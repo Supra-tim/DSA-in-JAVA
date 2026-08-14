@@ -160,6 +160,7 @@ Also some leetcode problems will be added**
 | [0215-kth-largest-element-in-an-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0875-koko-eating-bananas) |
@@ -189,6 +190,7 @@ Also some leetcode problems will be added**
 | [0169-majority-element](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 ## Union-Find
 |  |
 | ------- |
@@ -201,17 +203,20 @@ Also some leetcode problems will be added**
 | [0215-kth-largest-element-in-an-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -254,8 +259,14 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
