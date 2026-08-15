@@ -147,6 +147,7 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0075-sort-colors) |
@@ -168,6 +169,7 @@ Also some leetcode problems will be added**
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0189-rotate-array) |
@@ -223,6 +225,7 @@ Also some leetcode problems will be added**
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0053-maximum-subarray) |
 ## Simulation
 |  |
@@ -254,6 +257,7 @@ Also some leetcode problems will be added**
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0042-trapping-rain-water) |
 | [2390-removing-stars-from-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2390-removing-stars-from-a-string) |
 ## Enumeration
 |  |
@@ -275,4 +279,8 @@ Also some leetcode problems will be added**
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0451-sort-characters-by-frequency) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
