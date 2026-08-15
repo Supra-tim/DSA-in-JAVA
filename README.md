@@ -165,6 +165,7 @@ Also some leetcode problems will be added**
 | [0485-max-consecutive-ones](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0875-koko-eating-bananas) |
+| [1046-last-stone-weight](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1046-last-stone-weight) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -269,6 +270,7 @@ Also some leetcode problems will be added**
 | [0215-kth-largest-element-in-an-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0451-sort-characters-by-frequency) |
+| [1046-last-stone-weight](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
