@@ -166,6 +166,7 @@ Also some leetcode problems will be added**
 | [0455-assign-cookies](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0860-lemonade-change](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -302,6 +303,7 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
