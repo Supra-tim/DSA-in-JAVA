@@ -16,7 +16,7 @@ class Solution {
         }
         Collections.sort(list,(e1,e2)->{
             if(e1[0]==e2[0]){
-                return e1[1]-e1[1];
+                return e1[1]-e2[1];
             }
             return e1[0]-e2[0];
         });
