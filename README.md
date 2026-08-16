@@ -166,6 +166,7 @@ Also some leetcode problems will be added**
 | [0540-single-element-in-a-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -209,6 +210,7 @@ Also some leetcode problems will be added**
 | [0242-valid-anagram](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0451-sort-characters-by-frequency) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -244,10 +246,12 @@ Also some leetcode problems will be added**
 | [0367-valid-perfect-square](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0875-koko-eating-bananas) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## String
 |  |
 | ------- |
@@ -271,6 +275,7 @@ Also some leetcode problems will be added**
 | [0347-top-k-frequent-elements](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
