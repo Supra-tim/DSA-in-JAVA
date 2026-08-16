@@ -163,6 +163,7 @@ Also some leetcode problems will be added**
 | [0283-move-zeroes](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0455-assign-cookies](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0875-koko-eating-bananas) |
@@ -177,6 +178,7 @@ Also some leetcode problems will be added**
 | [0125-valid-palindrome](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -212,6 +214,7 @@ Also some leetcode problems will be added**
 | [0347-top-k-frequent-elements](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
 |  |
@@ -295,4 +298,12 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
