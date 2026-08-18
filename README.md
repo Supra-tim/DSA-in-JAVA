@@ -174,6 +174,7 @@ Also some leetcode problems will be added**
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -262,6 +263,7 @@ Also some leetcode problems will be added**
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1539-kth-missing-positive-number) |
 ## Matrix
 |  |
 | ------- |
