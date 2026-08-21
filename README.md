@@ -185,6 +185,7 @@ Also some leetcode problems will be added**
 | [0125-valid-palindrome](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -218,6 +219,7 @@ Also some leetcode problems will be added**
 | [0215-kth-largest-element-in-an-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0451-sort-characters-by-frequency) |
@@ -292,6 +294,7 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0451-sort-characters-by-frequency) |
@@ -321,4 +324,12 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0455-assign-cookies) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
