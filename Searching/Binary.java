@@ -5,7 +5,7 @@ public class Binary{
     int start=0;
     int end=size-1;
     while(start<=end){
-        mid=(start+end)/2;
+        mid=(start+(end-start))/2;
         if(a[mid]==val){
             return mid;
         }
