@@ -47,7 +47,8 @@ class Implement{
         System.out.println("List:");
         for(int i = 1; i <= n; i++) {
             for(int j = 0; j < list.get(i).size(); j++) {
-                System.out.print(list.get(i).get(j) + " ");
+                System.out.print(list.get(i).get(j) + " ");  //you are not printing the edges in input order.
+                // You are printing the adjacency list organized by node.
             }
             System.out.println();
         }
