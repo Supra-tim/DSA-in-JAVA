@@ -192,6 +192,7 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0547-number-of-provinces) |
 ## Sorting
 |  |
 | ------- |
@@ -247,4 +248,16 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
