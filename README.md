@@ -263,4 +263,8 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
