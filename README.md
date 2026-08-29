@@ -186,6 +186,7 @@ Also some leetcode problems will be added**
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
@@ -240,6 +241,7 @@ Also some leetcode problems will be added**
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [2390-removing-stars-from-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2390-removing-stars-from-a-string) |
@@ -263,6 +265,7 @@ Also some leetcode problems will be added**
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Database
