@@ -157,11 +157,13 @@ Also some leetcode problems will be added**
 | [0162-find-peak-element](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0875-koko-eating-bananas) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -184,6 +186,7 @@ Also some leetcode problems will be added**
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
@@ -192,6 +195,7 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0200-number-of-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -233,12 +237,15 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0200-number-of-islands) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [2390-removing-stars-from-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2390-removing-stars-from-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
 | ------- |
@@ -247,4 +254,33 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0200-number-of-islands) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0196-delete-duplicate-emails) |
+| [0584-find-customer-referee](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0595-big-countries) |
+| [1068-product-sales-analysis-i](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1068-product-sales-analysis-i) |
+| [1148-article-views-i](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1683-invalid-tweets](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1683-invalid-tweets) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1757-recyclable-and-low-fat-products) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
