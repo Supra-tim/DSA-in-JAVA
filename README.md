@@ -147,6 +147,7 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
@@ -173,6 +174,7 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0189-rotate-array) |
@@ -206,6 +208,7 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
