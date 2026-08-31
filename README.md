@@ -301,4 +301,8 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
