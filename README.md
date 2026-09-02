@@ -172,6 +172,7 @@ Also some leetcode problems will be added**
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -193,6 +194,7 @@ Also some leetcode problems will be added**
 | [0189-rotate-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0367-valid-perfect-square) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
