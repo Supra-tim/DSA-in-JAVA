@@ -205,6 +205,7 @@ Also some leetcode problems will be added**
 | [0242-valid-anagram](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0454-4sum-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0454-4sum-ii) |
 | [0904-fruit-into-baskets](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
@@ -263,6 +264,7 @@ Also some leetcode problems will be added**
 | [0003-longest-substring-without-repeating-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Stack
@@ -288,6 +290,7 @@ Also some leetcode problems will be added**
 | [0003-longest-substring-without-repeating-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Database
