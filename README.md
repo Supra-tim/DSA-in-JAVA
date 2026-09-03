@@ -168,6 +168,7 @@ Also some leetcode problems will be added**
 | [0875-koko-eating-bananas](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -210,6 +211,7 @@ Also some leetcode problems will be added**
 | [0454-4sum-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0454-4sum-ii) |
 | [0904-fruit-into-baskets](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -237,6 +239,7 @@ Also some leetcode problems will be added**
 | ------- |
 | [0169-majority-element](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -298,6 +301,7 @@ Also some leetcode problems will be added**
 | [0424-longest-repeating-character-replacement](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
