@@ -203,6 +203,7 @@ Also some leetcode problems will be added**
 | [0169-majority-element](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0454-4sum-ii) |
 | [0904-fruit-into-baskets](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -264,6 +265,7 @@ Also some leetcode problems will be added**
 | [0003-longest-substring-without-repeating-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -288,6 +290,7 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
