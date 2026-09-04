@@ -166,6 +166,7 @@ Also some leetcode problems will be added**
 | [0485-max-consecutive-ones](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [0641-design-circular-deque](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0641-design-circular-deque) |
 | [0875-koko-eating-bananas](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0930-binary-subarrays-with-sum) |
@@ -337,5 +338,14 @@ Also some leetcode problems will be added**
 ## Linked List
 |  |
 | ------- |
+| [0641-design-circular-deque](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0641-design-circular-deque) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Design
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0641-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
