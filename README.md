@@ -165,6 +165,7 @@ Also some leetcode problems will be added**
 | [0454-4sum-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0930-binary-subarrays-with-sum) |
@@ -209,6 +210,7 @@ Also some leetcode problems will be added**
 | [0242-valid-anagram](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -321,6 +323,7 @@ Also some leetcode problems will be added**
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
