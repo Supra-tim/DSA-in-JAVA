@@ -201,6 +201,7 @@ Also some leetcode problems will be added**
 | ------- |
 | [0189-rotate-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -250,6 +251,7 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -352,4 +354,12 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0641-design-circular-deque](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0641-design-circular-deque) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
