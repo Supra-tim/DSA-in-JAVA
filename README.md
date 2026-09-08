@@ -211,6 +211,7 @@ Also some leetcode problems will be added**
 | [0509-fibonacci-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3870-count-commas-in-range](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
