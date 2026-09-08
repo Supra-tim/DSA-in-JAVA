@@ -149,6 +149,7 @@ Also some leetcode problems will be added**
 | [0015-3sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0051-n-queens) |
@@ -215,6 +216,7 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
@@ -280,6 +282,7 @@ Also some leetcode problems will be added**
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0200-number-of-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -376,6 +379,7 @@ Also some leetcode problems will be added**
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0051-n-queens) |
@@ -383,5 +387,10 @@ Also some leetcode problems will be added**
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
