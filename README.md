@@ -166,6 +166,7 @@ Also some leetcode problems will be added**
 | [0189-rotate-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0454-4sum-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0454-4sum-ii) |
@@ -266,6 +267,7 @@ Also some leetcode problems will be added**
 | [0070-climbing-stairs](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0940-distinct-subsequences-ii) |
 ## Simulation
