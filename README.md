@@ -316,6 +316,7 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0200-number-of-islands) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -398,4 +399,12 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0037-sudoku-solver) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
