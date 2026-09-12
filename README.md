@@ -183,6 +183,7 @@ Also some leetcode problems will be added**
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -251,6 +252,7 @@ Also some leetcode problems will be added**
 | [0169-majority-element](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -273,6 +275,7 @@ Also some leetcode problems will be added**
 | [0213-house-robber-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
@@ -290,6 +293,7 @@ Also some leetcode problems will be added**
 | [0540-single-element-in-a-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1004-max-consecutive-ones-iii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
 | ------- |
