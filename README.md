@@ -265,6 +265,7 @@ Also some leetcode problems will be added**
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0115-distinct-subsequences) |
@@ -300,6 +301,7 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0151-reverse-words-in-a-string) |
@@ -393,6 +395,7 @@ Also some leetcode problems will be added**
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0040-combination-sum-ii) |
@@ -415,4 +418,8 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
