@@ -210,6 +210,7 @@ Also some leetcode problems will be added**
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0367-valid-perfect-square) |
@@ -269,6 +270,7 @@ Also some leetcode problems will be added**
 | ------- |
 | [0022-generate-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0198-house-robber) |
@@ -426,4 +428,8 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0022-generate-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
