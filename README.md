@@ -175,6 +175,7 @@ Also some leetcode problems will be added**
 | [0540-single-element-in-a-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0641-design-circular-deque](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0641-design-circular-deque) |
+| [0835-image-overlap](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0930-binary-subarrays-with-sum) |
@@ -305,6 +306,7 @@ Also some leetcode problems will be added**
 | [0063-unique-paths-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0200-number-of-islands) |
+| [0835-image-overlap](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
