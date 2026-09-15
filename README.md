@@ -218,6 +218,7 @@ Also some leetcode problems will be added**
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0189-rotate-array) |
@@ -233,6 +234,7 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0169-majority-element) |
@@ -327,6 +329,7 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
