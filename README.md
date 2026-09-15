@@ -208,6 +208,7 @@ Also some leetcode problems will be added**
 | [0283-move-zeroes](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -290,6 +291,7 @@ Also some leetcode problems will be added**
 | [0931-minimum-falling-path-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1289-minimum-falling-path-sum-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
 |  |
@@ -335,6 +337,7 @@ Also some leetcode problems will be added**
 | [0940-distinct-subsequences-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2390-removing-stars-from-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
@@ -394,6 +397,7 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Linked List
 |  |
 | ------- |
