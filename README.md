@@ -226,6 +226,7 @@ Also some leetcode problems will be added**
 | [0509-fibonacci-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3871-count-commas-in-range-ii) |
@@ -293,6 +294,7 @@ Also some leetcode problems will be added**
 | [0931-minimum-falling-path-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
@@ -394,6 +396,7 @@ Also some leetcode problems will be added**
 | [1004-max-consecutive-ones-iii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
@@ -458,6 +461,7 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Geometry
 |  |
 | ------- |
