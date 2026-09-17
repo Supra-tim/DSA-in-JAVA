@@ -173,6 +173,7 @@ Also some leetcode problems will be added**
 | [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0454-4sum-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -290,6 +291,7 @@ Also some leetcode problems will be added**
 | [0120-triangle](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 | [0931-minimum-falling-path-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0940-distinct-subsequences-ii) |
@@ -466,4 +468,12 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0836-rectangle-overlap) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
