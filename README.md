@@ -228,6 +228,7 @@ Also some leetcode problems will be added**
 | [0509-fibonacci-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3870-count-commas-in-range) |
@@ -477,6 +478,7 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Knapsack Problem
 |  |
 | ------- |
