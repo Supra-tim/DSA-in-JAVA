@@ -173,6 +173,7 @@ Also some leetcode problems will be added**
 | [0213-house-robber-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0416-partition-equal-subset-sum) |
@@ -224,6 +225,7 @@ Also some leetcode problems will be added**
 | ------- |
 | [0078-subsets](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -232,6 +234,7 @@ Also some leetcode problems will be added**
 | [0062-unique-paths](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0836-rectangle-overlap) |
@@ -256,6 +259,7 @@ Also some leetcode problems will be added**
 | [0169-majority-element](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0560-subarray-sum-equals-k) |
@@ -283,6 +287,7 @@ Also some leetcode problems will be added**
 | [0169-majority-element](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
@@ -334,6 +339,7 @@ Also some leetcode problems will be added**
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0875-koko-eating-bananas) |
