@@ -148,6 +148,7 @@ Also some leetcode problems will be added**
 | ------- |
 | [0015-3sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0039-combination-sum) |
@@ -209,6 +210,7 @@ Also some leetcode problems will be added**
 | ------- |
 | [0015-3sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0151-reverse-words-in-a-string) |
