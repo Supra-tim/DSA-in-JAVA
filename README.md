@@ -268,6 +268,7 @@ Also some leetcode problems will be added**
 | [0904-fruit-into-baskets](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1096-brace-expansion-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -290,6 +291,7 @@ Also some leetcode problems will be added**
 | [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0268-missing-number) |
+| [1096-brace-expansion-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
@@ -374,6 +376,7 @@ Also some leetcode problems will be added**
 | [0344-reverse-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-distinct-subsequences-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2390-removing-stars-from-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2390-removing-stars-from-a-string) |
@@ -383,6 +386,7 @@ Also some leetcode problems will be added**
 ## Stack
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1096-brace-expansion-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2390-removing-stars-from-a-string) |
 ## Enumeration
 |  |
@@ -399,6 +403,7 @@ Also some leetcode problems will be added**
 | ------- |
 | [0200-number-of-islands](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0322-coin-change) |
+| [1096-brace-expansion-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sliding Window
 |  |
@@ -479,6 +484,7 @@ Also some leetcode problems will be added**
 | [0040-combination-sum-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0078-subsets) |
+| [1096-brace-expansion-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1096-brace-expansion-ii) |
 ## Algorithm X
 |  |
 | ------- |
