@@ -161,6 +161,7 @@ Also some leetcode problems will be added**
 | [0075-sort-colors](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0136-single-number) |
@@ -214,6 +215,7 @@ Also some leetcode problems will be added**
 | [0018-4sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0189-rotate-array) |
@@ -287,6 +289,7 @@ Also some leetcode problems will be added**
 | [0015-3sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0242-valid-anagram) |
