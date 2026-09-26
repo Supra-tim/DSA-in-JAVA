@@ -196,6 +196,7 @@ Also some leetcode problems will be added**
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -276,6 +277,7 @@ Also some leetcode problems will be added**
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
@@ -382,6 +384,7 @@ Also some leetcode problems will be added**
 | [1096-brace-expansion-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
