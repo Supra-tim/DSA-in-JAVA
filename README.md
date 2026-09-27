@@ -162,6 +162,7 @@ Also some leetcode problems will be added**
 | [0078-subsets](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
@@ -321,6 +322,7 @@ Also some leetcode problems will be added**
 | [0064-minimum-path-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0198-house-robber) |
