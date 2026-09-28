@@ -389,6 +389,7 @@ Also some leetcode problems will be added**
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -399,6 +400,7 @@ Also some leetcode problems will be added**
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2390-removing-stars-from-a-string) |
 ## Enumeration
 |  |
@@ -519,6 +521,7 @@ Also some leetcode problems will be added**
 | ------- |
 | [0022-generate-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Combinatorics
 |  |
 | ------- |
