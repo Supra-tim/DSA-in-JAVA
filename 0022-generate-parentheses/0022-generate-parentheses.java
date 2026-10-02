@@ -13,7 +13,7 @@ class Solution {
     }
     public List<String> generateParenthesis(int n) {
         List<String>ans=new ArrayList<>();
-        solve(n, 0,0, "", ans);
+        solve(n, 0, 0, "", ans);
         return ans;
     }
 }
