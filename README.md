@@ -334,6 +334,7 @@ Also some leetcode problems will be added**
 | [0322-coin-change](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0931-minimum-falling-path-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -393,6 +394,7 @@ Also some leetcode problems will be added**
 | [0242-valid-anagram](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -410,6 +412,7 @@ Also some leetcode problems will be added**
 | ------- |
 | [0020-valid-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -476,6 +479,7 @@ Also some leetcode problems will be added**
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -535,6 +539,7 @@ Also some leetcode problems will be added**
 | [0020-valid-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
