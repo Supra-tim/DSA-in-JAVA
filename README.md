@@ -244,6 +244,7 @@ Also some leetcode problems will be added**
 | [0189-rotate-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -360,6 +361,7 @@ Also some leetcode problems will be added**
 | [0162-find-peak-element](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1004-max-consecutive-ones-iii) |
