@@ -395,6 +395,7 @@ Also some leetcode problems will be added**
 | [0344-reverse-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1096-brace-expansion-ii) |
@@ -575,4 +576,20 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3525-find-x-value-of-array-ii) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
