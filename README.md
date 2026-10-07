@@ -394,6 +394,7 @@ Also some leetcode problems will be added**
 | [0125-valid-palindrome](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0678-valid-parenthesis-string) |
@@ -437,6 +438,7 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -521,6 +523,7 @@ Also some leetcode problems will be added**
 | [0040-combination-sum-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1096-brace-expansion-ii) |
 ## Algorithm X
 |  |
