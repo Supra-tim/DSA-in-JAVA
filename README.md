@@ -198,6 +198,7 @@ Also some leetcode problems will be added**
 | [1289-minimum-falling-path-sum-ii](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -350,6 +351,7 @@ Also some leetcode problems will be added**
 ## Simulation
 |  |
 | ------- |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/3498-reverse-degree-of-a-string) |
@@ -609,4 +611,8 @@ Also some leetcode problems will be added**
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/2333-minimum-sum-of-squared-difference) |
+## Brainteaser
+|  |
+| ------- |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Supra-tim/DSA-in-JAVA/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 <!---LeetCode Topics End-->
